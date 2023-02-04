@@ -8,12 +8,12 @@ export default function Navbar() {
             <h1 className="course-title">Final Synthesis Design Studio 2021/2022</h1>
             <ul>
                 <li>
-                    <Link to="/starter-pack"
+                    <Link to="/starter-pack/"
                         activeClassName="current"
                     >Starter Pack</Link>
                 </li>
                 <li>
-                    <Link to="/course"
+                    <Link to="/course/"
                         activeClassName="current"
                     >Course Results</Link>
                 </li>
